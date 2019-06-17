@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.202
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kimlikkartı", "Kimlikkartı.pyproj", "{70B3710B-E39B-47A2-96A0-7EA4233BE403}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70B3710B-E39B-47A2-96A0-7EA4233BE403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70B3710B-E39B-47A2-96A0-7EA4233BE403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C87C2E8-B6E1-4C51-8434-63550DD79296}
+	EndGlobalSection
+EndGlobal
